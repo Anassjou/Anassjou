@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm AJ</h1>
-<h3 align="center">A passionate data scientist from Mororocco</h3>
+<h3 align="center">A passionate data science student from Mororocco</h3>
 
-- 🌱 I’m currently learning **DS**
+- 🌱 I’m currently learning **DATA SCIENCE & MACHINE LEARNING**
 
-- 👨‍💻 All of my projects are available at [google.com](google.com)
+- 📝 I regularly write articles on [medium](medium.com)
 
-- 📝 I regularly write articles on [medium.com](medium.com)
-
-- 💬 Ask me about **ML**
-
-- 📫 How to reach me **anassjouani@cc**
+- 📫 How to reach me **anassjouani2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
